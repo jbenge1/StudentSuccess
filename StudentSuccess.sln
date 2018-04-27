@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSuccess", "StudentSuccess.csproj", "{BD019F25-8675-4277-B05D-23222FDBCB4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD019F25-8675-4277-B05D-23222FDBCB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD019F25-8675-4277-B05D-23222FDBCB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD019F25-8675-4277-B05D-23222FDBCB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD019F25-8675-4277-B05D-23222FDBCB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

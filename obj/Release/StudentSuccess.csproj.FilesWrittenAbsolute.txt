@@ -1,0 +1,8 @@
+/home/justin/Documents/Work_Files_Temp/StudentSuccess/StudentSuccess/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/justin/Documents/Work_Files_Temp/StudentSuccess/StudentSuccess/bin/Release/StudentSuccess.exe.config
+/home/justin/Documents/Work_Files_Temp/StudentSuccess/StudentSuccess/bin/Release/StudentSuccess.pdb
+/home/justin/Documents/Work_Files_Temp/StudentSuccess/StudentSuccess/bin/Release/StudentSuccess.exe
+/home/justin/Documents/Work_Files_Temp/StudentSuccess/StudentSuccess/obj/Release/StudentSuccess.exe
+/home/justin/Documents/Work_Files_Temp/StudentSuccess/StudentSuccess/obj/Release/StudentSuccess.pdb
+/home/justin/Documents/Work_Files_Temp/StudentSuccess/StudentSuccess/bin/Release/D2L.Extensibility.AuthSdk.dll
+/home/justin/Documents/Work_Files_Temp/StudentSuccess/StudentSuccess/bin/Release/StructureMap.dll

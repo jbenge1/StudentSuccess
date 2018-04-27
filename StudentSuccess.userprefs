@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="StudentSuccess.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIUtility.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="APIUtility.cs" Line="146" Column="86" />
+      <File FileName="ConfigManager.cs" Line="41" Column="19" />
+      <File FileName="Utility.cs" Line="75" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

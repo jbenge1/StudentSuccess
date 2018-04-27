@@ -1,0 +1,8 @@
+C:\FT\UAIR\StudentSuccess\StudentSuccess\bin\Debug\StudentSuccess.exe.config
+C:\FT\UAIR\StudentSuccess\StudentSuccess\bin\Debug\StudentSuccess.exe
+C:\FT\UAIR\StudentSuccess\StudentSuccess\bin\Debug\StudentSuccess.pdb
+C:\FT\UAIR\StudentSuccess\StudentSuccess\bin\Debug\D2L.Extensibility.AuthSdk.dll
+C:\FT\UAIR\StudentSuccess\StudentSuccess\bin\Debug\StructureMap.dll
+C:\FT\UAIR\StudentSuccess\StudentSuccess\obj\Debug\StudentSuccess.csprojResolveAssemblyReference.cache
+C:\FT\UAIR\StudentSuccess\StudentSuccess\obj\Debug\StudentSuccess.exe
+C:\FT\UAIR\StudentSuccess\StudentSuccess\obj\Debug\StudentSuccess.pdb
